@@ -32,5 +32,5 @@ Fessサーバーの検索対象のファイルを保存したパスへのシン�
 2. `npm install axios`
 3. `npm install ejs`
 下記コマンドで実行ください。
-* `node server.js`
+* `node server.js`  
 クライアントでブラウザを開き、`http://node.jsアプリのホストのIPアドレス:8080`
