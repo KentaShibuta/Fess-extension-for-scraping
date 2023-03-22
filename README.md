@@ -27,7 +27,8 @@ Fessサーバーの検索対象のファイルを保存したパスへのシン�
 * `ln -s /var/www/html/fess /var/fess`
 
 ### 当node.jsアプリについて
-下記コマンドを実行し、ライブラリをインストールください。
+[公式サイト](https://nodejs.org/ja/download)からnode.jsの実行環境をインストールください。
+次に、下記コマンドを実行し、ライブラリをインストールください。
 1. `npm install http-server`
 2. `npm install axios`
 3. `npm install ejs`
