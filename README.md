@@ -27,11 +27,11 @@ Fessサーバーの検索対象のファイルを保存したパスへのシン�
 * `ln -s /var/www/html/fess /var/fess`
 
 ### 当node.jsアプリについて
-[公式サイト](https://nodejs.org/ja/download)からnode.jsの実行環境をインストールください。
-次に、下記コマンドを実行し、ライブラリをインストールください。
-1. `npm install http-server`
-2. `npm install axios`
-3. `npm install ejs`
-下記コマンドで実行ください。
-* `node server.js`  
-クライアントでブラウザを開き、`http://node.jsアプリのホストのIPアドレス:8080`
+1. [公式サイト](https://nodejs.org/ja/download)からnode.jsの実行環境をインストールください。
+2. 下記コマンドを実行し、ライブラリをインストールください。
+  1. `npm install http-server`
+  2. `npm install axios`
+  3. `npm install ejs`  
+3. node.jsアプリを動作させるには、下記コマンドで実行ください。
+  - `node server.js` 
+4. クライアントでブラウザを開き、`http://node.jsアプリのホストのIPアドレス:8080`を入力し、node.jsアプリにアクセスします。
